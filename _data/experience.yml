@@ -1,13 +1,4 @@
 main:
-
-  - type: education
-    degreepath: Masters of Arts in Media Arts & Sciences # for type.education.
-    institution: Indiana University Bloomington
-    department: Media School
-    advisors: Joshua Malitsky, Cara Caddoo, Galen Clavio # for type.education.
-    thesis: "Sport Documentary, Historiography, and the Collegiate Athletic Protest" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
-    years: 2022 - 2024
-    
   - type: education
     degreepath: PhD in Media Arts & Sciences # for type.education.
     institution: Indiana University Bloomington
@@ -16,6 +7,15 @@ main:
     thesis: "Making Github Templates" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
     years: 2024 - Present
     notes: In Progress
+    
+  - type: education
+    degreepath: Masters of Arts in Media Arts & Sciences # for type.education.
+    institution: Indiana University Bloomington
+    department: Media School
+    advisors: Joshua Malitsky, Cara Caddoo, Galen Clavio # for type.education.
+    thesis: "Sport Documentary, Historiography, and the Collegiate Athletic Protest" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
+    years: 2022 - 2024
+
     
   - type: job
     title: Example Job # for type.employment.
