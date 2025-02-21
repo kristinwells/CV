@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-Sean Purcell is a digital health humanist who works at UCSF>
+Kristin Wells is a PhD student at IU Bloomington who researches sport history, athletic activism, and media. 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-- **Digital Health Humanities:** I do things.
+- **Historiography:** archives and primary sources, documentary analysis
+- **Sports:** sport history, social issues, race and gender
+- **Media:** media messaging, media affordances 
 
 {% include_relative _includes/education.md %}
 
