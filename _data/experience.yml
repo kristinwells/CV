@@ -1,12 +1,20 @@
 main:
 
   - type: education
-    degreepath: This is a degree path # for type.education.
-    institution: University University
-    department: Lorem Ipsum
+    degreepath: Masters of Arts in Media Arts & Sciences # for type.education.
+    institution: Indiana University Bloomington
+    department: Media School
+    advisors: Joshua Malitsky, Cara Caddoo, Galen Clavio # for type.education.
+    thesis: "Sport Documentary, Historiography, and the Collegiate Athletic Protest" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
+    years: 2022 - 2024
+    
+  - type: education
+    degreepath: PhD in Media Arts & Sciences # for type.education.
+    institution: Indiana University Bloomington
+    department: Media School
     advisors: Jane Doe, John Doe # for type.education.
     thesis: "Making Github Templates" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
-    years: 2017 - Present
+    years: 2024 - Present
     notes: In Progress
     
   - type: job
