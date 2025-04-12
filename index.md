@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Kristin Wells is a PhD student at IU Bloomington who researches sport history, athletic activism, and media. 
+Kristin Wells is a PhD student at IU Bloomington who researches sport history and media. Her research interests broadly revolve around the role of sport and media cultures as they intersect with social movements, with a particular focus on media history, historiography, collegiate athletics, and sport documentary. She works with the Media School Archive on digitizing and doing archival description on the Miley Collection, an expansive collection of sport broadcasts dating back to the 1920s.
 
 ## Research Interests
 
