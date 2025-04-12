@@ -27,22 +27,23 @@ main:
     institution: Indiana University
     department: Media School Archive
     years: 2024 - Present
-    
-  - type: service
-    title: A role
-    institution: University university
-    years: 2020 - 2024
-    notes: Chair
-    
-  - type: service
-    title: Another role
-    institution:
-    years: 2021
 
   - type: service
-    title: A Third Role
-    institution:
-    years: 2023
+    title: Organizing Committee, Common Ground Conference
+    institution: Media School, Indiana University
+    years: August 2024-March 2025
+    
+  - type: service
+    title: Faculty Search Committee
+    institution: Media School, Indiana University 
+    years: Fall 2023
+    notes: Sports Media Tenure track role
+    
+  - type: service
+    title: Communications Chair
+    institution: Media School Graduate Association
+    years: 2023-2024
+
     
 # The structure of the data. You can include or exclude material as you need.
 #  - type: # types include "education" for degree paths, "job" for past positions, and "service" for service positions.
