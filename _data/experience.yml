@@ -3,7 +3,7 @@ main:
     degreepath: PhD in Media Arts & Sciences # for type.education.
     institution: Indiana University Bloomington
     department: Media School
-    advisors: Jane Doe, John Doe # for type.education.
+    advisors: Cara Caddoo, Joshua Malitsky, Brandon Wallace # for type.education.
     thesis: "Making Github Templates" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
     years: 2024 - Present
     notes: In Progress
@@ -16,11 +16,16 @@ main:
     thesis: "Sport Documentary, Historiography, and the Collegiate Athletic Protest" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
     years: 2022 - 2024
 
+  - type: education
+    degreepath: Bachelors  of Arts in Media Studies; Bachelors of Arts in Spanish # for type.education.
+    institution: The University of Tulsa 
+    department: Kendall College of Arts and Sciences
+    years: 2016-2022
     
   - type: job
-    title: Example Job # for type.employment.
-    institution: University University
-    department: Department
+    title: Archival Collection Associate for The Miley Sports Broadcasting Collection # for type.employment.
+    institution: Indiana University
+    department: Media School Archive
     years: 2024 - Present
     
   - type: service
