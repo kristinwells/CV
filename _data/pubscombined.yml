@@ -14,7 +14,6 @@ main: # You can enter in your items in a long list in this form. A few notes: th
     authors: Kristin Wells
     conference: Common Ground, Indiana University Bloomington # for type:conference
     date: March 2025
-   
     
   - type: conference
     title: "The Kaepernick Brand: Unpacking Sport, Celebrityhood, and the Commodification of Political Resistance"
@@ -22,27 +21,23 @@ main: # You can enter in your items in a long list in this form. A few notes: th
     conference: North American Society for the Sociology of Sport # for type:conference
     date: October 2024
    
-
   - type: conference
     title: "The University of Wyoming’s Black 14 and Mizzou’s Concerned Student 1950: Sport Documentary, Historiography, and the Collegiate Athletic Protest"
     authors: Kristin Wells
     conference: Common Ground # for type:conference
     date: April 2024
     
-
   - type: conference
     title: "Agenda Setting and Front Office Sports: Examining the Editorial Choices of a Leading Sport Newsletter"
     authors: Galen Clavio and Kristin Wells
     conference: International Association of Communication and Sport # for type:conference
     date: March 2024
    
-
   - type: conference
     title: "The University of Wyoming’s Black 14 and Mizzou’s Concerned Student 1950: Sport Documentary, Historiography, and the Collegiate Athletic Protest"
     authors: Kristin Wells
     conference: Center for Research on Race and Ethnicity in Society Research Symposium # for type:conference
     date: March 2024
-
 
  - type: conference
     title: "Olympic Podium to NFL Sideline: A Comparative Analysis of the Media Infrastructure Of Two Protests"
@@ -50,14 +45,12 @@ main: # You can enter in your items in a long list in this form. A few notes: th
     conference: Common Ground # for type:conference
     date: April 2023
 
-
  - type: conference
     title: "The Little 500 Sit-In and the IU Ten: Sport and Activism in Indiana History"
     authors: Kristin Wells
     conference: Common Ground # for type:conference
     date: April 2023
 
-      
   - type: grant # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments
     title: "AVAnnotate: Race Films", from IU Libraries Digital Humanities Grant
     date: Summer 2025
